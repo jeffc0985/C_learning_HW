@@ -1,0 +1,3 @@
+Hello friend!
+Welcome to the world of C language!
+Have fun!
